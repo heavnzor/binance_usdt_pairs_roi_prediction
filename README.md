@@ -43,9 +43,6 @@ py prediction.py --period <période> --output_file <fichier_sortie>
 
 <fichier_sortie> est le nom du fichier de sortie pour enregistrer les résultats. Ce paramètre est facultatif.
 
-## Auteur
-heavnz0r
-
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
