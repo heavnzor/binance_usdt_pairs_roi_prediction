@@ -39,7 +39,7 @@ Le script peut être exécuté depuis la ligne de commande :
 py prediction.py --period <période> --output_file <fichier_sortie>
 ```
 
-<période> spécifie la période de temps pour laquelle prédire le ROI (par exemple, 1w, 2w, 1M, etc.).
+<période> spécifie la période de temps pour laquelle prédire le ROI (par exemple, 1d, 1w, 1M, etc.).
 
 <fichier_sortie> est le nom du fichier de sortie pour enregistrer les résultats. Ce paramètre est facultatif.
 
